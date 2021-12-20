@@ -3,3 +3,6 @@
 #Datasets
 /Data
 
+.ipynb_checkpoints/
+
+precio.csv
